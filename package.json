@@ -32,6 +32,7 @@
     "rxjs": "~6.3.3",
     "toastr": "^2.1.4",
     "tslib": "^1.9.0",
+    "typescript-tslint-plugin": "^1.0.1",
     "zone.js": "~0.8.26"
   },
   "devDependencies": {
